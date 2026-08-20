@@ -4,7 +4,7 @@ Cohort retention analysis for a subscription business — SQL (recursive CTEs,
 window functions, self-referencing date logic) and a live interactive dashboard
 with a cohort retention heatmap.
 
-**🔗 Live dashboard:** `https://<your-github-username>.github.io/<repo-name>/`
+**🔗 Live dashboard:** https://github.com/nashrahfatma/cohort-retention-dashboard.git
 *(enable in Settings → Pages → deploy from `main` branch → root)*
 
 > **Note on data:** This project uses a synthetically generated subscription
